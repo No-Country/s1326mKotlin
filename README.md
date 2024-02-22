@@ -1,4 +1,4 @@
-# Histopia
+# HISTOPIA
 
 ##  Mostrar Imagen
 
