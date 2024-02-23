@@ -1,6 +1,6 @@
 # HISTOPIA
 
-##  ![Bienvenido a Histopia Descubre una forma emocionante de aprender historia mientras juegas y compites con otros usuarios](https://github.com/No-Country/s1326mKotlin/assets/149704038/96408036-03ec-4a14-8502-30287196645c)
+##  ![Banner Youtube Canal Aesthetic Bonito Rosa](https://github.com/No-Country/s1326mKotlin/assets/149704038/4a73b16f-b9ef-434a-9f7b-95eb2c09085a)
 
 **Histopia** es una aplicación educativa que ofrece juegos interactivos para aprender historia de manera entretenida y divertida. Los usuarios pueden explorar diferentes períodos históricos, participar en desafíos de trivia y aprender sobre eventos importantes y figuras destacadas de la historia mu|ndial.
 
